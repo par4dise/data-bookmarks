@@ -1,7 +1,11 @@
 # Data bookmarks
-A curated list of awesome tools dedicated to data transformation.
+A curated list of awesome tools dedicated to data analysis and/or transformation.
 
-## Table of Contents
+## Analysis
+
+- [Voyant](http://voyant.tools.huma-num.fr/) - Text analysis: most frequent words, words cloud, occurrences, ...
+
+## Transformation (ETL)
 
 - [WTFcsv](https://www.databasic.io/en/wtfcsv/) - WTFcsv tells you WTF is going on with your .csv file.
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it.
